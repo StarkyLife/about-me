@@ -1,0 +1,8 @@
+{
+  "name": "about-me",
+  "version": "1.0.0",
+  "description": "Static site with information about me",
+  "repository": "https://github.com/StarkyLife/starky-portfolio",
+  "author": "Ilshat Ismagilov",
+  "license": "MIT"
+}
